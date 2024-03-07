@@ -1,0 +1,28 @@
+{
+     "Math": {
+          "department_name": "Math",
+          "employees": []
+     },
+     "eco": {
+          "department_name": "eco",
+          "employees": [
+               [
+                    "an",
+                    1,
+                    "re",
+                    "eco"
+               ]
+          ]
+     },
+     "Science": {
+          "department_name": "Science",
+          "employees": [
+               [
+                    "Ananya",
+                    2,
+                    "re",
+                    "Science"
+               ]
+          ]
+     }
+}
